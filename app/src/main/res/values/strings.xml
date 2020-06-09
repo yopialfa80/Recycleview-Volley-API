@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volley Recycleview</string>
+
+    <string name="GET">Get Request</string>
+    <string name="POST">Post Request</string>
+    <string name="POST_AND_GET">Post And Get Request</string>
+</resources>
